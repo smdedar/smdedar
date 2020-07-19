@@ -23,7 +23,9 @@
 <img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=smdedar&show_icons=true" alt="smdedar" /> </p>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=smdedar&show_icons=true" alt="smdedar" /> 
+</p>
 
 <p align="center">
 <a href="https://twitter.com/thededar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thededar" height="20" width="20" /></a>
