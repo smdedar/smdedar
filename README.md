@@ -25,6 +25,7 @@
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=smdedar&show_icons=true" alt="smdedar" /> 
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=smdedar" alt="smdedar" />
 </p>
 
 <p align="center">

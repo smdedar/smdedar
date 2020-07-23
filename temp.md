@@ -1,0 +1,7 @@
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dasjideepak)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dasjideepak/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/dasjideepak/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dasjideepak)](https://twitter.com/dasjideepak)
+[![Medium](https://img.shields.io/badge/-Medium-263238?style=flat-square&labelColor=263238&logo=Medium&link=https://medium.com/@dasjideepak/)](https://medium.com/@dasjideepak)
+[![Medium](https://img.shields.io/badge/-Facebook-263238?style=flat-square&labelColor=263238&logo=facebook&link=https://fb.com/@dasjideepak/)](https://medium.com/@dasjideepak)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dasjideepak@gmail.com)
