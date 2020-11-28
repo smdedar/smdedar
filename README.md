@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dedar@eclipso.it**
 
-### 💻 Stack I work with
+### 💻 Stack I Work With
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
