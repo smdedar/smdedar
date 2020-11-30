@@ -33,7 +33,7 @@ height="25"/>
 height="25"/>
 </p>
  
-#### ⭐ GitHub Stats
+#### ⭐ Statistics and Languages
 <p align="center"> 
    <img src="https://github-readme-stats.vercel.app/api?username=smdedar&count_private=true&show_icons=true&theme=buefy" alt="smdedar" width="420"/> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdedar&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="smdedar" height="165" />
