@@ -34,9 +34,9 @@ height="25"/>
 </p>
  
 #### ⭐ Statistics and Languages
-<p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api?username=smdedar&count_private=true&show_icons=true&theme=buefy" alt="smdedar" width="420"/> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdedar&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="smdedar" height="165" />
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smdedar&count_private=true&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdedar&hide=jupyter%20notebook,html,css&show_icons=true&hide_border=true&layout=compact&langs_count=9"/>
 </p>
 
 <p align="center">
