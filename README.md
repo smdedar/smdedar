@@ -33,6 +33,8 @@ height="25"/>
 height="25"/>
 <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" 
 height="25"/>
+<img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" 
+height="25"/>
 </p>
  
 #### ⭐ Statistics and Languages
