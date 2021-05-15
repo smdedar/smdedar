@@ -5,4 +5,4 @@
 <!-- - 📫 How to reach me - -->
 <!-- - ⚡ Fun fact -  -->
 <!-- - 🔭 I’m looking to -  -->
-<!-- - 🔭 I’m currently working on [Disaster Tweet Analysis ](https://github.com/devded/NLP-Thesis) -->
+<!-- - 🔭 I’m currently working on -->
