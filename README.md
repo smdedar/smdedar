@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis) -->
 
-- 🌱 I’m currently learning **ML & Data Science**
+- 🌱 I’m currently learning **Architecture Patterns With Python**
 
 - 📫 How to reach me **devded@pm.me**
 
